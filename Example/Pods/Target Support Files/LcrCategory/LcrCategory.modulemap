@@ -1,0 +1,6 @@
+framework module LcrCategory {
+  umbrella header "LcrCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

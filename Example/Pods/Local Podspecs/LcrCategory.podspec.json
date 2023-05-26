@@ -1,0 +1,22 @@
+{
+  "name": "LcrCategory",
+  "version": "0.1.0",
+  "summary": "A short description of LcrCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Lcr/LcrCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lcr": "362175212@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Lcr/LcrCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LcrCategory/Classes/**/*"
+}

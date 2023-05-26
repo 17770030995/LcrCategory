@@ -7,6 +7,7 @@
 //
 
 #import "LCRViewController.h"
+#import "UIColor+Custom.h"
 
 @interface LCRViewController ()
 
@@ -17,7 +18,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    self.view.backgroundColor = [UIColor colorWithHexString:@"#ff0000"];
 }
 
 - (void)didReceiveMemoryWarning

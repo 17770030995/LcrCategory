@@ -1,0 +1,16 @@
+PODS:
+  - LcrCategory (0.1.0)
+
+DEPENDENCIES:
+  - LcrCategory (from `../`)
+
+EXTERNAL SOURCES:
+  LcrCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LcrCategory: 0b3759604df6e04eb20ef9b7c681084a72227062
+
+PODFILE CHECKSUM: 83545e36d86ceed53f5d66f20fca6755d29db957
+
+COCOAPODS: 1.12.0
